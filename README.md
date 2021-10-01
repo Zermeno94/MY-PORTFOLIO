@@ -1,21 +1,22 @@
 # **Homework 7: Updated MY-PORTFOLIO**
 
-
-
 ## **Description**
-This is my first portfolio to showcases my skills and talents to future employers. My website outlines my brief descption of myself, recent work and contact information. The website illustrates the core skills that I've recently learned: flexbox, media queries, and CSS variables. 
+This is my first portfolio to showcases my skills and talents to future employers. My website outlines my brief descption of myself, recent work and contact information. 
 
-## **Tasks Completed**
+This is my upgraded portfolio to showe case my skills and talents to future employers. I adjusted the website format from the original to show my HTML, CSS , BootStrap and JS. My website outlines my brief desciption of myself, recent work and contact information. 
 
-1. Created an HTML & CSS from sctrach.
 
-2. Applied images of myself and recent work/project on the website. I included a secondary placeholder in the work section to make it appear fullier. 
+## **Portfolio Tasks Completed**
+
+1. Created an HTML, CSS and utilize BootStrap. 
+
+2. Applied images of myself and recent work/project on the website. I added more placeholders from what was original displayed from my first portfoloio. 
 
 3. I was able to incorporate a responsive navigation bar to allow visiter to go straight to the sections embeded in the website. 
 
-4. A minimalist desing was utilize to make the website flow easily. 
+4. Displayed social networks for future employers/users to checkout. 
 
-5. Github was link was included in the navigation bar to allow future employers to view projects that I've created. 
+5. Added a printable resume to my webpage for future empolyers.
 
 ![MY-PORTFOLIO ](https://user-images.githubusercontent.com/87839888/135569459-8b5b8955-0f8c-4294-8c65-f9cc0061b38c.png)
 
@@ -24,6 +25,15 @@ This is my first portfolio to showcases my skills and talents to future employer
 [link to the deployed wesbite] (https://zermeno94.github.io/my-first-portfolio/)
 
 [Link to the code repository] (https://github.com/Zermeno94/my-first-portfolio)
+
+## **Updated GitHub Profile**
+
+1. Updated bio, added email address, linked social networks and displayed location. 
+
+2. Created a Readme file for personal touch to my profile. 
+
+3. Followed more of classmates and other developers. 
+
 
 ## **Credits**
 Miranda Zermeno
