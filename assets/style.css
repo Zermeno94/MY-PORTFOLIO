@@ -190,7 +190,7 @@ a.anchor {
   }
 
 #white-bg{
-  float:left;
+  float: none;
   display: inline-block;
   vertical-align: middle;
   padding: 6% 2%;
