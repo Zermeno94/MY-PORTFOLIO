@@ -27,8 +27,10 @@ a.anchor {
   background-color: lightpink;
 }
 
+/* Made nav font larger */
 .navbar li{
   text-transform: capitalize;
+  font-size: 2em; 
 }
 
 /* Splash creation in progress */
