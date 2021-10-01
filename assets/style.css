@@ -5,6 +5,14 @@ body{
   font-family: 'Rampart One', cursive;
 }
 
+header{
+  position: relative;
+  left:0 ;
+  top:0;
+  bottom: 1rem;
+  font-size: 1.5rem;
+}
+
 a.anchor {
     display: block;
     position: relative;
@@ -23,6 +31,47 @@ a.anchor {
   text-transform: capitalize;
 }
 
+/* Splash creation in progress */
+/* .intro{ */
+  /* position: fixed; */
+  /* z-index: 1; */
+  /* left: 0; */
+  /* top: 0; */
+  /* width: 100%; */
+  /* height: 100vh; */
+  /* background-color: lightpink; */
+  /* transition: 1s; */
+/* } */
+
+/* .miranda-log{ */
+  /* position: absolute; */
+  /* top:40%; */
+  /* left: 50%; */
+  /* transform:translate(-50%,-50%); */
+  /* color: white; */
+/* } */
+
+/* .welcome{ */
+  /* position: absolute; */
+  /* display: inline-block; */
+  /* bottom: -20px; */
+  /* opacity:0; */
+/* } */
+
+/* .logo.active{ */
+  /* bottom: 0; */
+  /* opacity: 1; */
+  /* transition: ease-in-out 5s; */
+/* } */
+
+/* .logo.fade{ */
+  /* bottom: 150px; */
+  /* opacity:0; */
+  /* transition: ease-in-out 5s; */
+/* } */
+
+
+/* Back-Splash behind images  */
 #splash{
   background-image: url(https://wallpapercave.com/wp/wp5287639.jpg);
   background-size: cover;
@@ -49,6 +98,7 @@ a.anchor {
   #splash a:hover{
     color: #e7e7e7;
   }
+/* Back-Splash ends here  */
 
 #portfolio{
   background-image: url(https://data.whicdn.com/images/338926593/original.jpg?t=1577776603);
@@ -193,3 +243,7 @@ a.anchor {
 hr{
   width: 25%;
 }
+/* Use a media query to add a breakpoint at 800px: */
+@media screen and (max-width: 800px) {
+  .left, .main, .right {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
