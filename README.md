@@ -45,5 +45,8 @@ Miranda Zermeno
 * https://fontawesome.com/v4.7/icons/
 * https://getbootstrap.com/docs/5.0/components/scrollspy/#how-it-works
 * https://getbootstrap.com/docs/5.0/helpers/ratio/#about
-
+* https://www.youtube.com/watch?v=2ak37WrbSDg
+* https://www.youtube.com/watch?v=MOlaldp1Fv4
+* https://www.w3schools.com/html/html_responsive.asp
+* https://www.youtube.com/watch?v=doGQtfM33r8
 
