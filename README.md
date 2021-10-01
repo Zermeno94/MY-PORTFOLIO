@@ -17,6 +17,8 @@ This is my first portfolio to showcases my skills and talents to future employer
 
 5. Github was link was included in the navigation bar to allow future employers to view projects that I've created. 
 
+![MY-PORTFOLIO ](https://user-images.githubusercontent.com/87839888/135569459-8b5b8955-0f8c-4294-8c65-f9cc0061b38c.png)
+
 ## **Links**
 
 [link to the deployed wesbite] (https://zermeno94.github.io/my-first-portfolio/)
