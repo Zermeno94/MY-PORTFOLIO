@@ -18,7 +18,7 @@ This is my upgraded portfolio to showe case my skills and talents to future empl
 
 5. Added a printable resume to my webpage for future empolyers.
 
-![MY-PORTFOLIO ](https://user-images.githubusercontent.com/87839888/135569459-8b5b8955-0f8c-4294-8c65-f9cc0061b38c.png)
+![Updated Portfolio ](https://user-images.githubusercontent.com/87839888/135703382-87e15c16-3e04-41c9-bbf8-da6451368809.png)
 
 ## **Links**
 
@@ -61,4 +61,5 @@ Miranda Zermeno
 * https://www.youtube.com/watch?v=MOlaldp1Fv4
 * https://www.w3schools.com/html/html_responsive.asp
 * https://www.youtube.com/watch?v=doGQtfM33r8
+
 
