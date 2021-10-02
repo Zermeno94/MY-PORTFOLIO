@@ -22,9 +22,9 @@ This is my upgraded portfolio to showe case my skills and talents to future empl
 
 ## **Links**
 
-[link to the deployed wesbite] (https://zermeno94.github.io/my-first-portfolio/)
+[link to the deployed wesbite] (https://zermeno94.github.io/MY-PORTFOLIO/)
 
-[Link to the code repository] (https://github.com/Zermeno94/my-first-portfolio)
+[Link to the code repository] (https://github.com/Zermeno94/MY-PORTFOLIO)
 
 ## **Updated GitHub Profile**
 
