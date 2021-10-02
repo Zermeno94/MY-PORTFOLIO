@@ -27,6 +27,31 @@ a.anchor {
   background-color: lightpink;
 }
 
+/* .transition{ */
+  /* width: 100%; */
+  /* height: 200px; */
+  /* background: rgb(255,94,127); */
+  /* background: linear-gradient(0deg, rgba(255,94,127,0) 0%, rgba(255,94,127,1) 100%); */
+/* } */
+
+/* .transition2{ */
+  /* position: absolute; */
+  /* bottom: -50; */
+  /* width: 100%; */
+  /* height: 200px; */
+  /* background: rgb(255,94,127); */
+  /* background: linear-gradient(180deg, rgba(255,94,127,0) 0%, rgba(255,94,127,1) 100%); */
+/* } */
+
+.transition3 {
+  position: absolute;
+  bottom: -50;
+  width: 100%;
+  height: 200px;
+  background: rgb(255,94,127);
+  background: linear-gradient(180deg, rgba(255,94,127,0) 0%, rgba(255,94,127,1) 100%);
+}
+
 /* Made nav font larger */
 .navbar li{
   text-transform: capitalize;
@@ -75,13 +100,13 @@ a.anchor {
 
 /* Back-Splash behind images  */
 #splash{
-  background-image: url(https://wallpapercave.com/wp/wp5287639.jpg);
+  padding: 0;
+  background-image: url(https://wallpaperaccess.com/full/2199583.jpg);
   background-size: cover;
   background-position: center;
   height: 100%;
   margin-top: 50px;
-  padding-top: 15%;
-  padding-bottom: 50px;
+  
   color: #fff;
   font-size: 3em;
   text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
@@ -103,7 +128,7 @@ a.anchor {
 /* Back-Splash ends here  */
 
 #portfolio{
-  background-image: url(https://data.whicdn.com/images/338926593/original.jpg?t=1577776603);
+  background-image: url(https://wallpaperaccess.com/full/1271644.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
@@ -165,7 +190,7 @@ a.anchor {
 }
 
 #about{
-  background-image: url(https://i.pinimg.com/236x/3d/76/4b/3d764bad0a6c5dcc63b8bcdbe8056354.jpg);
+  background-image: url(https://c0.wallpaperflare.com/preview/12/715/679/sky-sunset-clouds-pink.jpg);
   background-position: center;
   background-size: cover;
   height: 100%;
@@ -197,7 +222,7 @@ a.anchor {
 }
 
 #contact{
-  background-image: url(https://r1.ilikewallpaper.net/iphone-4s-wallpapers/download/27750/Sky-Night-Star-Dark-Mountain-Cloud-Shadow-iphone-4s-wallpaper-ilikewallpaper_com.jpg);
+  background-image: url(https://img3.wallspic.com/originals/2/4/5/0/5/150542-moon-star-sky-atmosphere-celestial_event-3222x4032.jpg);
   background-position: center;
   background-size: cover;
   height: 100%;
