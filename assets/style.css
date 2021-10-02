@@ -271,3 +271,21 @@ hr{
   width: 25%;
 }
 /* TODO: Make it mobile friendly. */
+
+/* mobile */
+@media (max-width: 425px) {
+  .ts-background-image {
+      display:none;
+  }
+  #portfolio-sections li {
+      float: none;
+  }
+}
+
+/* tablet*/
+@media (max-width: 768px) {
+  .ts-background-image {
+      /* background-position: top right; */
+      height: 75%;
+  }
+}
